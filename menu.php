@@ -7,7 +7,7 @@
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item"><a class="nav-link active" aria-current="page" href="index.php">Inicio</a></li>
                         <li class="nav-item"><a class="nav-link" href="servicios.php">Servicios Profesionales</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#!">Pizzerias del Mundo</a></li>
+                        <li class="nav-item"><a class="nav-link" href="pizzerias.php">Pizzerias del Mundo</a></li>
                         <li class="nav-item"><a class="nav-link" href="#!">Quienes Somos</a></li>
                         <li class="nav-item"><a class="nav-link" href="#!">Contacto</a></li>
                     </ul>
