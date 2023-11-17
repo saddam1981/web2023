@@ -10,6 +10,7 @@
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+        <link href="css/general.css" rel="stylesheet" />
     </head>
     <body>
         <!-- Menu -->
@@ -31,18 +32,16 @@
             <div class="row gx-4 gx-lg-5">
                 <div class="col-md-4 mb-5">
                     <div class="card h-100">
-                        <img src="assets/maquinaria-inicio.png" class="card-img-top" alt="...">
+                        <img src="assets/sp-asesoria.png" class="card-img-top" alt="...">
                         <div class="card-body bg-light">
-                            <h4 class="card-title">Asesoria</h4>
                             <p class="card-text">Contamos con una basta experiencia con el uso de diferentes maquinarias dependiendo de la produccion deseada en el que podemos asesorar.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-5">
                     <div class="card h-100">
-                        <img src="assets/maquinaria-inicio.png" class="card-img-top" alt="...">    
+                        <img src="assets/sp-consultoria.png" class="card-img-top" alt="...">    
                         <div class="card-body bg-light">
-                            <h4 class="card-title">Consultoria</h4>
                             <p class="card-text">Confeccionamos recetas segun las pretenciones adaptando al proceso productivo y maquinaria</p>
                         </div>
                     </div>
