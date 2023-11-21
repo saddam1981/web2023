@@ -48,7 +48,7 @@
                 </div>
                 <div class="col-md-4 mb-5">
                     <div class="card h-100">
-                        <img src="assets/maquinaria-inicio.png" class="card-img-top" alt="...">
+                        <img src="assets/sp-nuevosdesa.png" class="card-img-top" alt="...">
                         <div class="card-body bg-light">
                             <h4 class="card-title">Nuevos desarrollos</h4>
                             <p class="card-text">Realizamos el diseño de los procesos de elaboración para poder optimizar y estandarizar la producción.</p>

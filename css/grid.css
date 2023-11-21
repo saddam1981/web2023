@@ -8,7 +8,7 @@
 }
 
 .caja {
-
+    border: 1px solid black;
     margin: 4px;
     background-color: lightgray;
     text-align: center;
